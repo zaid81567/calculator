@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+
+.container {
+    text-align: center;
+}
+.cal-container{
+    display: inline-block;
+    padding: 20px 10px;
+    background-color: bisque;
+    border: 3px solid green;
+    border-radius: 10px;
+}
+h1{
+    padding-top: 15px;
+    height: 50px;
+    max-width: 600px;
+    margin: 15px auto;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+
+   
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 2em;
+    padding: 0 5px;
+    height: 50px;
+    width: 258px;
+    background-color: rgb(227, 244, 254);
+    box-sizing: border-box;
+    border: 5px rgb(17, 17, 141) solid;
+    border-radius: 10px;
+
+    font-family: 'VT323', monospace;
+    font-weight: bold;
+
+}
+button{
+    font-size: 1.5em;
+    width: 60px;
+    height: 40px;
+    color: azure;
+
+    border-radius: 10px;
+    background-color: goldenrod ;
+}
